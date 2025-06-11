@@ -20,7 +20,7 @@ As part of the competition, I reimagined the DevCation 2025 event platform with 
 ## 🌐 Live Preview
 
 Check out the live version of the redesigned DevCation 2025 website:  
-👉 [DevCation 2025 Redesign](https://taneesha1.github.io/redesign/)
+👉 [DevCation 2025 Redesign](https://taneesha1.github.io/devcation_redesign/)
 
 
 ## 🏆 Gemini Genesis Participation
